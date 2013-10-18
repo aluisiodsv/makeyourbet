@@ -1,0 +1,6 @@
+<head>
+	<title>Bet [edit]</title>
+</head>
+<body>
+	<%@include file="form.jsp"%>
+</body>
